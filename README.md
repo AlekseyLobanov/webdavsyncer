@@ -3,7 +3,7 @@
 Очень простой скрипт для закачки файлов по протоколу WebDAV. (Яндекс.Диск, например)
 
 ##Зависимости
-Зависит только от библиотеки [webdavclient](https://pypi.python.org/pypi/webdavclient/). Версия 1.0.3 лежит в папке wevbdav.
+Зависит только от библиотеки [webdavclient](https://pypi.python.org/pypi/webdavclient/). Версия 1.0.3 лежит в папке webdav.
 
 ##Использование
 `webdavsyncer.py SETTINGS_FILE LOCAL_PATH REMOTE_NAME`
